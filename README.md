@@ -4,12 +4,6 @@
 
 This was my first project using a public API.
 
-### Built With
-
-- [![React][React.js]][https://react.dev]
-- [![Node][Node.js]][https://nodejs.org/en]
-- [![Axios][Axios]][https://axios-http.com]
-
 <!-- GETTING STARTED -->
 
 ## Getting Started
